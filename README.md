@@ -1,4 +1,4 @@
-# Monitoramento de Consumo de Energia personalizável
+# Monitoramento de Consumo de Energia Personalizável
 Esse projeto tem o objetivo de simular na placa Bitdoglab as funcionalidades centrais de um possível sistema embarcado.
 
 ## Funcionalidades
