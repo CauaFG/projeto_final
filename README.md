@@ -32,5 +32,7 @@ Copie o arquivo .uf2 gerado para a unidade.
 
 ## Como usar
 Joystick -> Alterna os valores exibidos na tela conforme ele se move no eixo vertical.
+
 Botão A -> Associa um nome ao valor que estiver sendo exibido na tela no momento em que for pressionado
+
 Botão B -> Alterna o que está sendo exibido na tela para um contador que responde ao Joystick.
