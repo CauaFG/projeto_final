@@ -36,3 +36,6 @@ Joystick -> Alterna os valores exibidos na tela conforme ele se move no eixo ver
 Botão A -> Associa um nome ao valor que estiver sendo exibido na tela no momento em que for pressionado
 
 Botão B -> Alterna o que está sendo exibido na tela para um contador que responde ao Joystick.
+
+## Vídeo de demonstração
+https://youtu.be/oytt_B4SscY
